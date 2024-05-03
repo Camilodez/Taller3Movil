@@ -3,8 +3,8 @@
 # Integrantes
 
 Lucas Rivera
-Juan Jose Bermudez
-Camilo Hernandez
+,Juan Jose Bermudez
+y Camilo Hernandez
 
 # Grupo
 
